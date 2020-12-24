@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325219065148",
+    "project_id": "passio-6639e",
+    "storage_bucket": "passio-6639e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325219065148:android:c4127364efe9516c139239",
+        "android_client_info": {
+          "package_name": "com.example.passio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325219065148-adjrtj3fgvbi1bd2v14viq93k5cokh6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.passio",
+            "certificate_hash": "6c608028b55fe1b15d6b7301e656488d0f1cc08d"
+          }
+        },
+        {
+          "client_id": "325219065148-kl7t78g0ame4b9mc9o5q2a13ms9kvuca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_oHGL3VIfD-_cHFdh4AEpevuQljnFu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325219065148-kl7t78g0ame4b9mc9o5q2a13ms9kvuca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

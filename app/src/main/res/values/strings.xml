@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passio</string>
+    <string name="ch_m_v_o_th_m_m_t_ch_i_m">Chạm vào thẻ để mở mã tích điểm</string>
+    <string name="todo">TODO</string>
+</resources>
